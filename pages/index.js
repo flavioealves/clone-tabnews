@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>teste do meu commit</h1>
+  return <h1>teste prettierinpm</h1>;
 }
 
 export default Home;
